@@ -1,6 +1,3 @@
-# Valeria-BI
-Valeria Data Visualization
-
 # Dadhboard Valeria
 Um dashboard intuitivo e funcional projetado para facilitar a análise e a visualização de dados de saúde pública, com foco na análise de doenças tropicais. O Sadhboard Valeria possibilita o monitoramento de métricas em tempo real e fornece insights para a tomada de decisão, utilizando visualizações impactantes para uma compreensão rápida e fácil dos dados.
 
@@ -17,4 +14,7 @@ Relatórios Automatizados: Geração de relatórios personalizáveis em PDF ou E
 # Tecnologias Utilizadas
 
 Processamento dos dados: Python e DAX
+
 Visualização de Dados: Power BI
+
+<img src="https://github.com/user-attachments/assets/649301f3-4dbe-4ddd-bdfd-0c8a05e11fa8" alt="VALERIA logo" width="300"/>
